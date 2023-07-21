@@ -13,6 +13,7 @@
 		BD860D192A6713A600AFF4FF /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BD860D182A6713A600AFF4FF /* Preview Assets.xcassets */; };
 		BD860D1B2A6713A600AFF4FF /* Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD860D1A2A6713A600AFF4FF /* Persistence.swift */; };
 		BD860D1E2A6713A600AFF4FF /* finalProject.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = BD860D1C2A6713A600AFF4FF /* finalProject.xcdatamodeld */; };
+		BD860D252A67141100AFF4FF /* calculatedResult.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD860D242A67141100AFF4FF /* calculatedResult.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		BD860D182A6713A600AFF4FF /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		BD860D1A2A6713A600AFF4FF /* Persistence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Persistence.swift; sourceTree = "<group>"; };
 		BD860D1D2A6713A600AFF4FF /* finalProject.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = finalProject.xcdatamodel; sourceTree = "<group>"; };
+		BD860D242A67141100AFF4FF /* calculatedResult.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = calculatedResult.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 			children = (
 				BD860D112A67139D00AFF4FF /* finalProjectApp.swift */,
 				BD860D132A67139D00AFF4FF /* ContentView.swift */,
+				BD860D242A67141100AFF4FF /* calculatedResult.swift */,
 				BD860D152A6713A600AFF4FF /* Assets.xcassets */,
 				BD860D1A2A6713A600AFF4FF /* Persistence.swift */,
 				BD860D1C2A6713A600AFF4FF /* finalProject.xcdatamodeld */,
@@ -147,6 +150,7 @@
 				BD860D142A67139D00AFF4FF /* ContentView.swift in Sources */,
 				BD860D1E2A6713A600AFF4FF /* finalProject.xcdatamodeld in Sources */,
 				BD860D122A67139D00AFF4FF /* finalProjectApp.swift in Sources */,
+				BD860D252A67141100AFF4FF /* calculatedResult.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

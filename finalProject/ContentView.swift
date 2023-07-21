@@ -39,6 +39,11 @@ struct ContentView: View {
                 }
             }
             Text("Select an item")
+            
+            NavigationLink(destination: calculatedResult()) {
+                Text("Calculate")
+            }
+
         }
     }
 
